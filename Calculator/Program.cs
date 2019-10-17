@@ -51,7 +51,7 @@ namespace Calculator
             }
             else if (userSelection == "5")
             {
-                Console.WriteLine("You chose Modulus!");
+                Console.WriteLine("You chose Modulus");
                 Console.WriteLine("Enter first digit");
                 var firstDigit = int.Parse(Console.ReadLine());
                 Console.WriteLine("Enter second digit");
